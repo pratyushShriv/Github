@@ -27,5 +27,5 @@ jobs:
       # Step 4: Run the Script with Necessary Parameters
       - name: Execute Virtuoso Goal
         run: |
-          ./execute.sh --token 9a1dd4d3-fc96-4642-8b4e-2413ea421705 --goal 4689 --app2
+          ./execute.sh --token 9a1dd4d3-fc96-4642-8b4e-2413ea421705 --goal_id 4689 --app2
        
